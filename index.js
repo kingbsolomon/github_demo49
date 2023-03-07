@@ -1,3 +1,5 @@
 "use strict";
 
-console.log("this is a demo!")
+const basicFunction = () => {
+    console.log ("Hello World")
+}
